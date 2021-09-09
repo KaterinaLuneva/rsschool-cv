@@ -1,2 +1,1 @@
-# rsschool-cv
-My CV for RSSchool
+https://katerinaluneva.github.io/rsschool-cv/cv
