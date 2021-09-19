@@ -1,0 +1,37 @@
+.container {
+  width: 960px;
+  margin: auto;
+}
+.row {
+  display: flex;
+}
+
+.left {
+  width: 250px;
+  background-color: #404040;
+  color: #e4e1e1 ;
+}
+
+.right {
+  width: 100%;
+  background-color: #e2dede;
+}
+
+section h2 {
+  padding-left: 40px;
+  border-left: 12px solid #dbd817;
+}
+
+.left section h2 {
+  background-color: #505050;    
+}
+.right section h2 {
+  background-color: #c9c5c5;    
+}
+
+footer {
+  background-color: #c4c2c2;
+}
+footer .col {
+  padding: 20px;
+}
